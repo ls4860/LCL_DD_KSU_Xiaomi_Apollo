@@ -2,6 +2,8 @@ menu "Tech packages"
 
 source "techpack/data/Kconfig"
 
+source "techpack/wlan/Kconfig"
+
 menu "Camera packages"
 
 config TECHPACK_CAMERA_XIAOMI
