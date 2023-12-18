@@ -136,7 +136,10 @@ all.config
 # fetched Android config fragments
 kernel/configs/android-*.cfg
 
-# build
-build.log
+build
+build_munch
+build.sh
+log.txt
 out/
 *.zip
+
